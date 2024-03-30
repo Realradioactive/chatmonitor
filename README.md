@@ -20,8 +20,8 @@
 </p>
 
 
-![alt text](http://url/to/img.png](https://github.com/Realradioactive/chatmonitor/blob/main/yn1.png?raw=true))
 
+![yn1](https://github.com/Realradioactive/chatmonitor/assets/61369603/9b316bc1-c5ea-44aa-b503-f76bfca07290)
 
 ---
 
