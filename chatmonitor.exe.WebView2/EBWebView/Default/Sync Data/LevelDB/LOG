@@ -1,2 +1,3 @@
-2024/03/29-17:59:16.903 5120 Creating DB C:\Users\Administrator\Desktop\chatmonitor v1.1\chatmonitor\chatmonitor\bin\x86\Debug\net6.0-windows\chatmonitor.exe.WebView2\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2024/03/29-17:59:16.910 5120 Reusing MANIFEST C:\Users\Administrator\Desktop\chatmonitor v1.1\chatmonitor\chatmonitor\bin\x86\Debug\net6.0-windows\chatmonitor.exe.WebView2\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/03/30-08:26:02.021 4e38 Reusing MANIFEST C:\Users\Administrator\Documents\Visual Studio 2022\projelerim\chatmonitor\chatmonitor\bin\x86\Debug\net6.0-windows\chatmonitor.exe.WebView2\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2024/03/30-08:26:02.022 4e38 Recovering log #3
+2024/03/30-08:26:02.022 4e38 Reusing old log C:\Users\Administrator\Documents\Visual Studio 2022\projelerim\chatmonitor\chatmonitor\bin\x86\Debug\net6.0-windows\chatmonitor.exe.WebView2\EBWebView\Default\Sync Data\LevelDB/000003.log 

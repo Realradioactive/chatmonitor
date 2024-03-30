@@ -41,14 +41,22 @@ Github üzerinden normal şekilde indirip kuruluma ihtiyaç olmadan direk .exe y
 ---
 
 #### Usage
-Adım 0 - Oyunu pencere modunda çalıştırın- chat penceresi en üstte olacağından o bölge tıklanamaz olacaktır ona göre ayarlayın
+Adım 0 - Oyunu pencere modunda çalıştırın
 Adım 1- Öncelikle chat penceresinin nerede görülmesi istediğini seçip ekranın o kısmına programı ayarlayın boyutunu ayarlayın. 
 Adım 2- Daha sonra chatbox adresini belirtilen yere girin (steamlabs (obs de ayarlarken yaptığımız link streamlabs linki) 
 Adım 3- Git ve Gizleye tıklayın program şeffaf olacak ve belirlediğiniz konumda en üstte olacak şekilde kilitlenecektir 
 Adım 4- Programdan çıkmak için ya alt tab veya araç çubuğundan seçip klavyeden END tuşuna basın yada yine programı seçip alt f4 yapın :)  
 ++++ Yapımcı:RealRadioActive bir teşekkür veya bir bağışı hakkettim umarım :) ",
                       
+#### Versiyon Güncelleme bilgileri
 
+V 1.1
+Hatalar giderildi
+V 1.2
+Hatalar giderildi kullanım klavuzu eklendi
+V 1.3
+Program arkasına tıklanabilir hale getirildi(oyunlarda ekranda yazı chat görükür ve chat arkasına tıklanabilir oyun etkilenmez)
+Url kayıt ve kayıtlı url den çalıştırma eklendi
 
 ---
 
